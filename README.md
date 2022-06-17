@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @HadrielWonda
-- 👀 I’m interested in .NET MVC...
-- I am  a junior ASP.NET developer
-- 🌱 Part of the ESSEN setup ...
-- 💞️ I’m looking to collaborate on any .NET MVC projects
-- 📫 How to reach me 
+Open to learning
 - phone: +2347018698608
 - email: olawalebash2017@gmail.com
 - linkedin: https://ng.linkedin.com/in/wale-abaniwonda-620618186
