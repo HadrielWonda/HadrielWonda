@@ -40,7 +40,7 @@ I am currently open to any services and collaborations and can be reached via <a
 
 
 
-[facebook]: https://m.facebook.com/abaniwonda.wale/
+[facebook]: https://m.facebook.com/wale.abaniwonda/
 [twitter]: https://twitter.com/W_Abany
 [instagram]: https://instagram.com/w_abany
 [linkedin]: https://ng.linkedin.com/in/wale-abaniwonda-620618186
